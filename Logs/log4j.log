@@ -1,0 +1,14 @@
+2024-03-03 16:10:39 INFO  Log:18 - =====================================LoginTest TEST START=========================================
+2024-03-03 16:10:39 INFO  Log:31 - user is now going to click on Sign In Button
+2024-03-03 16:11:14 INFO  Log:18 - =====================================LoginTest TEST START=========================================
+2024-03-03 16:11:14 INFO  Log:31 - user is now going to click on Sign In Button
+2024-03-03 16:11:15 INFO  Log:31 - user is now going to enter username and password
+2024-03-03 16:11:17 INFO  Log:31 - verifying if user is able to login
+2024-03-03 16:11:17 INFO  Log:31 - login is successful
+2024-03-03 16:11:17 INFO  Log:23 - =====================================LoginTest TEST END=========================================
+2024-03-03 18:58:21 INFO  Log:18 - =====================================LoginTest TEST START=========================================
+2024-03-03 18:58:22 INFO  Log:31 - user is now going to click on Sign In Button
+2024-03-03 18:58:24 INFO  Log:31 - user is now going to enter username and password
+2024-03-03 18:58:26 INFO  Log:31 - verifying if user is able to login
+2024-03-03 18:58:26 INFO  Log:31 - login is successful
+2024-03-03 18:58:26 INFO  Log:23 - =====================================LoginTest TEST END=========================================
